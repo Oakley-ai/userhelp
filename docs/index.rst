@@ -159,7 +159,7 @@ With your **current member** account, reinstalling AOL Desktop Gold is easy and 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Helpful Page:
 
    reinstall-download
 
