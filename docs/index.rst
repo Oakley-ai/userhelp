@@ -157,5 +157,9 @@ Helpful Links
 
 With your **current member** account, reinstalling AOL Desktop Gold is easy and efficient. Follow the steps above to restore your software and enjoy the full benefits of AOL once again.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
+   reinstall-download
 
